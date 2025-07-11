@@ -9,3 +9,12 @@ I'm a college student at Telkom University Purwokerto, majoring at Information S
 - 💬 Feel free to have a conversation with me!
 - 📫 Reach me at: muhammadkenzo779@gmail.com
 - 🗨️ Let's be mutual at [My Instagram](https://www.instagram.com/_mhktbgszr/)!
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/Mhktzz">
+     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhktzz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mhktzz&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
