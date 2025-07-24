@@ -1,5 +1,7 @@
 <img src="https://media.tenor.com/MQ0YAQljpOcAAAAM/uma-musume-mejiro-mcqueen.gif">
 
+[![Spotify](https://https://novatorem-ten-brown.vercel.app/api/spotify)](https://open.spotify.com/user/e4qlms560si8uw4k0bw4zui4f)
+
 # Hi! I'm Kenzo 👋
 
 I'm a college student at Telkom University Purwokerto, majoring at Information System, Faculty of Industrial Engineering. My favourite and interest is Software Developing and UI/UX Designing. I have an interest and enthusiasm for new things to learn. I'm looking forward to contribute at some company actively.
