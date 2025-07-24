@@ -1,5 +1,6 @@
 <img src="https://media.tenor.com/MQ0YAQljpOcAAAAM/uma-musume-mejiro-mcqueen.gif">
 
+### 🎧 Now Playing Spotify
 [![Spotify](https://spotify-now-playing-zeta-flax.vercel.app/api/spotify)](https://open.spotify.com/user/e4qlms560si8uw4k0bw4zui4f)
 
 # Hi! I'm Kenzo 👋
