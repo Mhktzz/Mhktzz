@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/MQ0YAQljpOcAAAAM/uma-musume-mejiro-mcqueen.gif">
 
-[![Spotify](https://https://novatorem-ten-brown.vercel.app/api/spotify)](https://open.spotify.com/user/e4qlms560si8uw4k0bw4zui4f)
+[![Spotify](https://https://novatorem-ten-brown.vercel.app/api/spotify-playing)](https://open.spotify.com/user/e4qlms560si8uw4k0bw4zui4f)
 
 # Hi! I'm Kenzo 👋
 
