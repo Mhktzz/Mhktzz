@@ -1,11 +1,13 @@
-### <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" width="30" align="center"> 🎧 Now Playing Spotify
-
 <p align="left">
   <img src="https://media.tenor.com/MQ0YAQljpOcAAAAM/uma-musume-mejiro-mcqueen.gif" height="175em"  />
-  <a href="https://open.spotify.com/user/e4qlms560si8uw4k0bw4zui4f">
-    <img height="175em" src="https://spotify-now-playing-zeta-flax.vercel.app/api/spotify?background_color=0d1117&border_color=7c54b4"/>
-  </a>
+  <img src="https://media.tenor.com/pjL24u_4HmcAAAAM/mejiro-mcqueen-umamusume.gif" height="175em"  />
+  <img src="https://media.tenor.com/H7skw7XrM2AAAAA1/umamusume-uma-musume.webp" height="175em"  />
 </p>
+
+### <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" width="30" align="center"> 🎧 Now Playing Spotify
+<a href="https://open.spotify.com/user/e4qlms560si8uw4k0bw4zui4f">
+    <img height="175em" src="https://spotify-now-playing-zeta-flax.vercel.app/api/spotify?background_color=0d1117&border_color=7c54b4"/>
+</a>
 
 # Hi! I'm Kenzo 👋
 
