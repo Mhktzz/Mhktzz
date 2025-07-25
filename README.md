@@ -19,11 +19,14 @@ I'm a college student at Telkom University Purwokerto, majoring at Information S
 - 📫 Reach me at: muhammadkenzo779@gmail.com
 - 🗨️ Let's be mutual at [My Instagram](https://www.instagram.com/_mhktbgszr/)!
 
-<br/>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mhktzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mhktzz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhktzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="left">
-  <a href="https://github.com/Mhktzz">
-     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mhktzz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mhktzz&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mhktzz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mhktzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
