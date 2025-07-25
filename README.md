@@ -14,7 +14,7 @@
 I'm a college student at Telkom University Purwokerto, majoring at Information System, Faculty of Industrial Engineering. My favourite and interest is Software Developing and UI/UX Designing. I have an interest and enthusiasm for new things to learn. I'm looking forward to contribute at some company actively.
 
 ---
-# My Experience
+## My Experience
 
 - ⌚ **Currently working as a Part-Time Digital Marketing Designer at a company called Otim Group.**
 - 📑 I was working as an Internship Student on [PaDi UMKM](https://padiumkm.id/) as a Mobile Developer.
@@ -22,6 +22,9 @@ I'm a college student at Telkom University Purwokerto, majoring at Information S
 - 💬 Feel free to have a conversation with me!
 - 📫 Reach me at: muhammadkenzo779@gmail.com
 - 🗨️ Let's be mutual at [My Instagram](https://www.instagram.com/_mhktbgszr/)!
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=javascript,php,html,css,react,nodejs,laravel,vscode,figma,ps&theme=dark)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 <p align="left">
