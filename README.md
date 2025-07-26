@@ -4,7 +4,7 @@
   <img src="https://media.tenor.com/H7skw7XrM2AAAAA1/umamusume-uma-musume.webp" height="175em"  />
 </p>
 
-### <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" width="30" align="center"> 🎧 Now Playing Spotify
+### <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" width="30" align="center"> 🎧 Playing:
 <a href="https://mhktzz.pythonanywhere.com/link">
   <img
     src="https://mhktzz.pythonanywhere.com/?spin=true&scan=true&theme=dark&eq_color=7c54b4"
