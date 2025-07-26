@@ -5,8 +5,11 @@
 </p>
 
 ### <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" width="30" align="center"> 🎧 Now Playing Spotify
-<a href="https://open.spotify.com/user/e4qlms560si8uw4k0bw4zui4f">
-    <img height="175em" src="https://spotify-now-playing-zeta-flax.vercel.app/api/spotify?background_color=0d1117&border_color=7c54b4"/>
+<a href="https://mhktzz.pythonanywhere.com/link">
+  <img
+    src="https://mhktzz.pythonanywhere.com/?spin=true&scan=true&theme=dark&eq_color=7c54b4"
+    alt="Current Spotify Song"
+  />
 </a>
 
 # Hi! I'm Kenzo 👋
