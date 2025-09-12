@@ -2,6 +2,7 @@
   <img src="https://media.tenor.com/MQ0YAQljpOcAAAAM/uma-musume-mejiro-mcqueen.gif" height="175em"  />
   <img src="https://media.tenor.com/pjL24u_4HmcAAAAM/mejiro-mcqueen-umamusume.gif" height="175em"  />
   <img src="https://media.tenor.com/H7skw7XrM2AAAAA1/umamusume-uma-musume.webp" height="175em"  />
+  <img src="https://media.tenor.com/NB63HF1g4IUAAAA1/hiiroyuri-mejiro-mcqueen.webp" height="175em"  />
 </p>
 
 ### <img src="https://storage.googleapis.com/pr-newsroom-wp/1/2023/05/Spotify_Primary_Logo_RGB_Green.png" width="30" align="center"> 🎧 Playing:
